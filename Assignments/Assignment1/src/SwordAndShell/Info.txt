@@ -1,0 +1,20 @@
+		==================
+		=Game Instruction=
+		==================
+
+The game start with White：(left side)
+Single chick for selecte the chesses
+Double chick for executes  actions
+Eg (create rotate move)
+
+Game actions will shows at the bottom of 
+the Window.
+
+When the green square around the chesses
+means the chesses is selected.
+
+When the red square around the chesses
+means the chesses is moved.
+ 
+mouse left chick to selecte the chesses
+double chick get in to the creation board

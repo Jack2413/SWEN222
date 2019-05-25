@@ -1,0 +1,52 @@
+     * 00 - nothing                     - GG  
+	 * 01 - lava                        - GL 
+	 * 02 - contain player              - GP 
+	 * 03 - contain wise man type0      - W0
+     * 04 - contain wise man type1      - W1
+     * 05 - contain wise man type2      - W2
+     * 06 - contain wise man type3      - W3
+      
+     * 10 - normal wall                 - WW   
+	 * 11 - Breakable wall              - WB
+
+	 * 20 - Gold Door                   - DG           
+	 * 21 - Cyan Door                   - DC          
+	 * 22 - Bronze Door                 - DB         
+	 * 23 - Purple Door                 - DP
+	 * 24 - Silver Door                 - DS
+
+     * 30 - Gold key                    - GK
+	 * 31 - Cyan key                    - CK
+	 * 32 - Bronze Key                  - BK
+	 * 33 - Purplye Key                 - PK
+	 * 34 - Sliver K                    - SK
+
+	 * 40 - Big BloodVial               - BB
+	 * 41 - Small BloodVial             - SB
+	 * 43 - Bomb                        - BM
+     * 48 - Fate Coin
+	 * 49 - MonsterManual
+	 
+	 * 70 - 0-Armor                     - AR	 
+	 * 71 - 1-Armor
+	 * 72 - 2-Armor
+
+	 * 73 - 0-Weapon                    - WP	 
+	 * 74 - 1-Weapon
+	 * 75 - 2-Weapon
+	 
+	 * 76 - 0-wing                      - WG
+	 * 77 - 1-Wing
+	 * 78 - 2-Wing
+	 
+	 
+	 * 51 - up stair                    - US
+	 * 52 - down stair                  - DS
+	 
+	 * 60 - Shop Type 0                 - S0
+	
+	 * 65 - Temple Type 0               - T0
+	 * 66 - Temple Type 1               - T1
+	 * 67 - Temple Type 2               - T2
+
+	 * 91 - M1  92 - M2 93 - M3 94 - M4 95 - M5 96 - M6 97 - M7 98 - M8
